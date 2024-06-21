@@ -3,7 +3,7 @@
 ## Description
 This is a project to demonstrate the working of git.
 
-# Initialize a New Git Repository
+# Setup
 
 1. **Initialize a New Git Repository**:
    - Open your terminal or command prompt.
