@@ -44,3 +44,4 @@ By following these steps, you will have successfully initialized a new Git repos
 ## Feature 1
 ## New Changes
 Changes in branch1
+Changes in branch2
