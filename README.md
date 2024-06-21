@@ -41,3 +41,4 @@ This is a project to demonstrate the working of git.
      ```
 
 By following these steps, you will have successfully initialized a new Git repository and created a clear README file!
+## Feature 1
